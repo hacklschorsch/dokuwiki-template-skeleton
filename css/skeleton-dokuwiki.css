@@ -1,0 +1,50 @@
+/* Adapt the skeleton's CSS (see getskeleton.com) for dokuwiki.
+ * Author: Florian Sesser 2013.  */
+
+/* Reset some styles that Skeleton's CSS overzealously defines */
+#qsearch__in {
+	display: inline;
+}
+
+form.button,
+form.button:hover {
+	background: none;
+	border: none;
+	margin: 0;
+	padding: 0;
+	text-shadow: none;
+}
+
+li, dd {
+	margin: 0 0 0 1.5em;
+}
+
+ol, ul {
+	list-style: none outside disc;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+	margin: 0;
+	font-size: 100%;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select {
+	display: inline;
+	margin: 0;
+}
+
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+	margin: 0;
+}
+
