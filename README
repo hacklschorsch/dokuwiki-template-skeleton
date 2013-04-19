@@ -1,2 +1,6 @@
-See template.info.txt for main info
-See COPYING for license info
+Beware - work in progress!
+
+This is my attempt to integrate the Skeleton Responsive Boilerplate (getskeleton.com) into the Dokuwiki Starter Template (https://github.com/selfthinker/dokuwiki_template_starter) to create a good base for quickly building responsive websites with some content management capabilities built in. 
+
+ATM it has both -- The complete ``starter template'' CSS and the complete ``Skeleton'' CSS.
+A bunch of the ``starter template'' code probably has to be factored out.
